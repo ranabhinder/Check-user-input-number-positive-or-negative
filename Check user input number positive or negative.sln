@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check user input number positive or negative", "Check user input number positive or negative.csproj", "{832FEBE3-CE9C-4833-9850-308057A4C810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832FEBE3-CE9C-4833-9850-308057A4C810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832FEBE3-CE9C-4833-9850-308057A4C810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832FEBE3-CE9C-4833-9850-308057A4C810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832FEBE3-CE9C-4833-9850-308057A4C810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A382B840-A208-4E18-88B4-75E04F658E2D}
+	EndGlobalSection
+EndGlobal
